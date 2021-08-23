@@ -1,8 +1,12 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-My name is Daniel and I'm Web Developer
+My name is Daniel and I'm Web Developer based in Madrid, Spain.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danigmartin&layout=compact)](https://github.com/danigmartin/github-readme-stats)
+##  📈 My GitHub Stats
+
+| Most Used Languages | GitHub Stats |
+| ------------------- | ------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danigmartin&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=danigmartin&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
 
 
 
