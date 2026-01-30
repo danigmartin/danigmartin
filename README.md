@@ -1,6 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+# Hi, I'm Daniel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-My name is Daniel and I'm Web Developer based in Madrid, Spain.
+📍 Madrid | 💻 Web Developer
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ##  📈 My GitHub Stats
 
