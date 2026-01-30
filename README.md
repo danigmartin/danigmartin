@@ -1,14 +1,24 @@
-# Hi, I'm Daniel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+# Hola, soy Daniel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-📍 Madrid | 💻 Web Developer
+📍 Madrid | 💻 Desarrollador web
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+> **Desarrollador Frontend** centrado en rendimiento, accesibilidad y escalabilidad. Después de años enviando aplicaciones a producción, el frontend moderno se siente como una nueva etapa.
 
 
-##  📈 My GitHub Stats
+# Proyectos actuales
 
-| Most Used Languages | GitHub Stats |
-| ------------------- | ------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danigmartin&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=danigmartin&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
+- 🧾 **[AppTest](https://app-test-gestor.netlify.app/)** Aplicación de test para estudiantes y opositores
+
+🚧🏗️ En construcción
+
+
 
 
 
